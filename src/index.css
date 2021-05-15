@@ -12,6 +12,10 @@ body {
     overflow-y: scroll;
 }
 
+a {
+    text-decoration: none;
+}
+
 @keyframes animateDown {
     0%,
     20%,
